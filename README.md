@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @markkennedy750
-am a full stack developer and also a hacker
+software engineer with 5+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
